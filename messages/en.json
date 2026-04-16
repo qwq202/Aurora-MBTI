@@ -574,5 +574,12 @@
       "modelsCount": "{count} MODELS",
       "toolsCount": "{count} TOOLS"
     }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved. Let's get you back on track.",
+    "goHome": "Back to Home",
+    "startTest": "Start Test",
+    "tagline": "Discover your true self through AI-driven scientific analysis."
   }
 }

@@ -574,5 +574,12 @@
       "modelsCount": "{count} 个模型",
       "toolsCount": "{count} 个工具"
     }
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "你访问的页面不存在或已被移动。让我们带你回到正轨。",
+    "goHome": "返回首页",
+    "startTest": "开始测试",
+    "tagline": "通过 AI 驱动的科学分析，帮助你发现真实的自己。"
   }
 }

@@ -574,5 +574,12 @@
       "modelsCount": "{count} モデル",
       "toolsCount": "{count} 個のツール"
     }
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのページは存在しないか、移動された可能性があります。もう少しで、元に戻れます。",
+    "goHome": "ホームに戻る",
+    "startTest": "テストの開始",
+    "tagline": "AI による科学分析を通じて、本当の自分を発見しましょう。"
   }
 }
